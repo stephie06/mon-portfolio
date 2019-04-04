@@ -1,0 +1,47 @@
+body {
+	background: rgb(245,245,245);
+	margin: auto 0;
+	
+}
+.navbar{
+	background-color:rgb(165,239,239); 
+}
+img{
+  border-radius: 50px;
+}
+
+#ban {
+	text-align: center;
+	background-image: url(image/bureau.jpg); 
+	background-size: cover;
+	padding: 140px;
+	color: black;
+	height: 600px;
+	opacity: 1;
+	
+
+}
+#ban h1 {
+	font-family: garamond;
+	font-size: 60px;
+}
+#ban p {
+	font-family: garamond;
+	font-size: 30px;
+}
+#footer {
+	padding: 30px;
+	background: rgb(30,30,30); 
+	text-align: center;
+	color: lightgrey;
+}
+#footer ul {
+    list-style-type: none;
+}
+#footer a {
+	color: lightgrey;
+}
+#footer a:hover {
+	color:blue;
+}
+

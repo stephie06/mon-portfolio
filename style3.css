@@ -1,0 +1,59 @@
+body {
+	background: rgb(245,245,245);
+	margin: auto 0;
+	
+}
+.navbar{
+	background-color:rgb(165,239,239);
+}
+.imag{
+	border-radius: 50%;
+}
+#ban {
+	text-align: center;
+	background-image: url(image/bureau.jpg); 
+	background-size: cover;
+	padding: 100px;
+	color: black;
+	height: 300px;
+	opacity: 1;
+	
+
+}
+#ban h1 {
+	font-family: garamond;
+	font-size: 70px;
+}
+#ban p {
+	font-family: garamond;
+	font-size: 30px;
+}
+h4{
+	margin: 50px;
+}
+h6,p{
+	margin: 20px;
+}
+.media-body{
+	margin: 20px;
+	padding: 10px;
+}
+.media img{
+	margin: 20px;
+}
+
+#footer {
+	padding: 30px;
+	background: rgb(30,30,30); 
+	text-align: center;
+	color: lightgrey;
+}
+#footer ul {
+    list-style-type: none;
+}
+#footer a {
+	color: lightgrey;
+}
+#footer a:hover {
+	color:blue;
+}

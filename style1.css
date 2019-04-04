@@ -1,0 +1,60 @@
+body {
+	background: rgb(245,245,245);
+	margin: auto 0;
+	
+}
+.imag {
+	right: 400px;
+	width: 300px;
+}
+.ima{
+	border-radius: 50px;
+}
+.navbar{
+	background-color:rgb(165,239,239); 
+}
+#ban {
+	text-align: center;
+	background-image: url(image/bureau.jpg); 
+	background-size: cover;
+	padding: 100px;
+	color: black;
+	height: 300px;
+	opacity: 1;
+}
+#ban h1 {
+	font-family: garamond;
+	font-size: 70px;
+ 
+}
+#ban p {
+	font-family: garamond;
+	font-size: 30px; 
+}
+.media{
+	padding: 30px;
+	font-family: times new roman;
+	font-size: 20px;
+}
+.media-body{
+	text-align: center;
+}
+.fabs{
+	padding: 10px;
+	text-align: center;
+}
+#footer {
+	padding: 30px;
+	background: rgb(30,30,30); 
+	text-align: center;
+	color: lightgrey;
+}
+#footer ul {
+    list-style-type: none;
+}
+#footer a {
+	color: lightgrey;
+}
+#footer a:hover {
+	color:blue;
+}

@@ -1,0 +1,30 @@
+body {
+	background: rgb(245,245,245);
+	margin: auto 0;
+	
+}
+.navbar{
+	background-color:rgb(165,239,239);
+}
+.imag{
+	border-radius: 50%;
+}
+#ban {
+	text-align: center;
+	background-image: url(image/bureau.jpg); 
+	background-size: cover;
+	padding: 100px;
+	color: black;
+	height: 300px;
+	opacity: 1;
+	
+
+}
+#ban h1 {
+	font-family: garamond;
+	font-size: 70px;
+}
+#ban p {
+	font-family: garamond;
+	font-size: 30px;
+}
